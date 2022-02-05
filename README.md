@@ -6,7 +6,8 @@ This is a public repository on GitHub were I keep different data science project
 
 ### Test project number one
 <!---
-your comment goes here
-and here
+[![](link-to-our-badge)](link-to-our-project)
+https://chriskhanhtran.github.io/_posts/2020-01-13-portfolio-tutorial/
+https://shields.io/
 -->
 ![](https://img.shields.io/badge/ett-test-red?logo=R)
