@@ -10,4 +10,4 @@ This is a public repository on GitHub were I keep different data science project
 https://chriskhanhtran.github.io/_posts/2020-01-13-portfolio-tutorial/
 https://shields.io/
 -->
-![](https://img.shields.io/badge/-white?logo=Python)(https://karl-karlsson.github.io/exploring_ios_android_data/) ![](https://img.shields.io/badge/EDA-white)(https://karl-karlsson.github.io/exploring_ios_android_data/)
+[![](https://img.shields.io/badge/-white?logo=Python)](https://karl-karlsson.github.io/exploring_ios_android_data/) ![](https://img.shields.io/badge/EDA-white)(https://karl-karlsson.github.io/exploring_ios_android_data/)
