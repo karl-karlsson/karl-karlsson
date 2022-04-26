@@ -11,3 +11,8 @@ Using FIFA22 data and linear optimization to pick a starting 11 for the Swedish 
 ### [Effects of Russian invasion of Ukraine on Google search patterns](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb)
 [![](https://img.shields.io/badge/-tidyverse-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb) [![](https://img.shields.io/badge/-gtrendsR-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb) [![](https://img.shields.io/badge/-maps-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb)<br>
 In this project I look at Google search data and try to visualize some trends and patterns in connection to Russians war on Ukraine.
+
+### [Basic Python 1](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb)
+[![](https://img.shields.io/badge/-tidyverse-blue?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) [![](https://img.shields.io/badge/-gtrendsR-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb) [![](https://img.shields.io/badge/-maps-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/google_trends.ipynb)<br>
+In this project I look at Google search data and try to visualize some trends and patterns in connection to Russians war on Ukraine.
+
