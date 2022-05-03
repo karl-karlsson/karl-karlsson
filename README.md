@@ -10,6 +10,7 @@ This is a public repository on GitHub were I plan to keep different data science
 I use a dataset from a concrete manufacturer to fit a few different models to find out which one can best predict the strength of concrete depending on the mixture of ingridients and days that concrete cures. I then show how a fitted model can be used to optimize business decisisons using the differential evolution algorithm from the DEoptim package. This is very much **work in progress** ie. a lot of code and less explanations for the time being.
 
 ### [Using linear optimization in R to pick the Swedish national football team](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb)
+[![](https://img.shields.io/badge/-_-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb)
 [![](https://img.shields.io/badge/-lpSolver-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb) [![](https://img.shields.io/badge/-tidyverse-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb) [![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb) <br>
 Using FIFA22 data and linear optimization to pick a starting 11 for the Swedish mens national football team.
 
