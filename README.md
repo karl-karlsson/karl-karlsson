@@ -5,7 +5,7 @@
 This is a public repository on GitHub were I plan to keep different data science projects I've worked on.
 
 ### [Optimizing concrete production](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb)
-[![](https://img.shields.io/badge/-lpSolver-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb) [![](https://img.shields.io/badge/-tidyverse-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb) [![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb) <br>
+[![](https://img.shields.io/badge/-lpSolver-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb) [![](https://img.shields.io/badge/-tidyverse-blue?logo=R)](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb) [![](https://img.shields.io/badge/Status-Under_construction-red)](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb) <br>
 In this project (that's 'under construction') I use a dataset from a concrete manufacturer to fit a few different models to find out which one can best predict the strength of concrete depending on the mixture of ingridients and days that concrete cures. I then show how a fitted model can be used to optimize business decisisons using the differential evolution algorithm from the DEoptim package.
 
 ### [Using linear optimization in R to pick the Swedish national football team](https://github.com/karl-karlsson/notebooks/blob/main/LO_FIFA22.ipynb)
@@ -18,7 +18,7 @@ Using FIFA22 data and linear optimization to pick a starting 11 for the Swedish 
 In this project I look at Google search data and try to visualize some trends and patterns in connection to Russians war on Ukraine.
 
 ### [Inventory management using Python](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)
-[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) [![](https://img.shields.io/badge/Status-Ongoing-red)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)<br>
+[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) [![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)<br>
 The goal of the project is to create a new class to represent the inventory of a laptop retailer.
 The class will automatically load in a .csv file from the web and I'll also define methods that belongs to the new class. 
 These methods will help us answer different business questions such as how many laptops are currently in stock etc.
