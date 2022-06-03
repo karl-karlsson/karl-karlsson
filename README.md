@@ -20,7 +20,8 @@ Using FIFA22 data and linear optimization to pick a starting 11 for the Swedish 
 In this project I look at Google search data and try to visualize some trends and patterns in connection to the war in Ukraine.
 
 ### [Exploring CIA factbook using Python and SQL](https://github.com/karl-karlsson/notebooks/blob/main/CIA_factbook.ipynb)
-[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) 
+[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)
+[![](https://img.shields.io/badge/pandas-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) 
 [![](https://img.shields.io/badge/plotnine-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) 
 [![](https://img.shields.io/badge/SQLite-black?logo=SQLite)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) 
 [![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)<br>
