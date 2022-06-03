@@ -25,11 +25,11 @@ In this project I look at Google search data and try to visualize some trends an
 [![](https://img.shields.io/badge/plotnine-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) 
 [![](https://img.shields.io/badge/SQLite-black?logo=SQLite)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) 
 [![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)<br>
-The goal of the project is to create a new class to represent the inventory of a laptop retailer.
-The class will automatically load in a .csv file from the web and I'll also define methods that belongs to the new class. 
-These methods will help us answer different business questions such as how many laptops are currently in stock etc.
-
-
+Querying the CIA factbook using SQL and creating some intereseting visualizations using plotnine.
+<br>For example:
+* how does the population size of Sweden compare to other countries?
+* what countries are densely populated?
+* how is birth rates and death rates of countries related to population growth? 
 
 ### [Inventory management using Python](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)
 [![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) [![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)<br>
