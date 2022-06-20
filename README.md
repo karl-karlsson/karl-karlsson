@@ -40,6 +40,17 @@ Querying the CIA factbook using SQL and creating some intereseting visualization
 * what countries are densely populated?
 * how is birth rates and death rates of countries related to population growth? 
 
+### [Setting up my own PostegreSQL database on Azure](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)
+[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)
+[![](https://img.shields.io/badge/pandas-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb) 
+[![](https://img.shields.io/badge/psycopg2-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb) 
+[![](https://img.shields.io/badge/PostegreSQL-white?logo=PostgreSQL)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)
+[![](https://img.shields.io/badge/Azure-blue?logo=Microsoft)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb) 
+[![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/building_a_postgresdb_in_azure.ipynb)<br>
+
+Setting up my own PostgreSQL server on MS Azure. Creating a 'football.db' with data on teams and players in Swedish football between 2007 and 2015.
+Migrating data from .xls to SQL using psycopg2.
+
 ### [Inventory management using Python](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)
 [![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb) [![](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/karl-karlsson/notebooks/blob/main/laptops.ipynb)<br>
 The goal of the project is to create a new class to represent the inventory of a laptop retailer.
