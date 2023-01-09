@@ -56,7 +56,3 @@ Migrating data from .xls to SQL using psycopg2.
 The goal of the project is to create a new class to represent the inventory of a laptop retailer.
 The class will automatically load in a .csv file from the web and I'll also define methods that belongs to the new class. 
 These methods will help us answer different business questions such as how many laptops are currently in stock etc.
-
-### [Project euler](https://github.com/karl-karlsson/projecteuler)
-[![](https://img.shields.io/badge/Python-yellow?logo=Python)](https://github.com/karl-karlsson/projecteuler) [![](https://img.shields.io/badge/matplotlib-yellow?logo=Python)](https://github.com/karl-karlsson/projecteuler) [![](https://img.shields.io/badge/Status-Paused-blue)](https://github.com/karl-karlsson/projecteuler)<br>
-Respository where I plan to store my solutions to the Project Euler problems.  
